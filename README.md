@@ -1,0 +1,2 @@
+# WordSearch
+Infinite word search
